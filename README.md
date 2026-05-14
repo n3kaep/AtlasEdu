@@ -127,5 +127,5 @@ Em desenvolvimento.
 
 # Integrantes
 
-- Vitor Gabriel Alves
-- Nome do seu amigo
+- Vitor 
+- Ribeiro
