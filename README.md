@@ -20,8 +20,7 @@ O projeto AtlasEdu tem como objetivo simular uma plataforma real de gerenciament
 - Express
 
 ## Banco de Dados
-- PostgreSQL
-- Supabase
+- mySQL
 
 ## Ferramentas
 - Git
